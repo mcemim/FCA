@@ -1,4 +1,4 @@
-nome;tipo;material;relacao;pcs_carga;forno;camada;massa;volume_un;area_un;maior_espessura;maior_dimensao;massa_carga;area_carga (m3);tempo_austen;temperatura;tempo_cem
+nome;tipo;material;relacao;pcs_carga;forno;camada;massa;volume_un;area_un;maior_espessura;maior_dimensao;massa_carga;area_carga;tempo_austen;temperatura;tempo_cem
 PRIMARIO;1;17NiCr7G;11x43;36;F1;;1.40;186544.70;41893.07;17.25;355.60;50.4;1.50815052;1;940;280
 PRIMARIO;1;17NiCr7G;11x47;36;F1;0.63;1.40;186544.70;41893.07;17.25;355.60;50.4;1.50815052;1;940;280
 PRIMARIO;1;17NiCr7G;11x47;36;F1;;1.40;186544.70;41893.07;17.25;355.60;50.4;1.50815052;1;940;280
